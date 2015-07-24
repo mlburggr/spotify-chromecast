@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ChromecastSpotify.iml" filepath="$PROJECT_DIR$/ChromecastSpotify.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mobile/mobile.iml" filepath="$PROJECT_DIR$/mobile/mobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spotify-auth-1.0.0-beta10/spotify-auth-1.0.0-beta10.iml" filepath="$PROJECT_DIR$/spotify-auth-1.0.0-beta10/spotify-auth-1.0.0-beta10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spotify-auth-1.0.0-beta10/spotify-auth-1.0.0-beta10.iml" filepath="$PROJECT_DIR$/spotify-auth-1.0.0-beta10/spotify-auth-1.0.0-beta10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spotify-player-1.0.0-beta10/spotify-player-1.0.0-beta10.iml" filepath="$PROJECT_DIR$/spotify-player-1.0.0-beta10/spotify-player-1.0.0-beta10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tv/tv.iml" filepath="$PROJECT_DIR$/tv/tv.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,1 @@
+include ':mobile', ':tv', ':spotify-auth-1.0.0-beta10', ':spotify-player-1.0.0-beta10'
